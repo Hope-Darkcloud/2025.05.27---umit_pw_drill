@@ -2,6 +2,6 @@
 
 void pw_hello_powercoders(void)
 {
-    write(1, "Hello, Powercoders!\n", 21);
+    write(1, "Hello, Powercoders!\n", 22);
 }
 
